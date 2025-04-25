@@ -2,3 +2,6 @@ numpy
 pandas
 imbalanced-learn
 catboost
+xgboost
+scikit-learn
+matplotlib
