@@ -30,11 +30,7 @@ Please ensure that the dataset used is in the correct folder(s) as seen in the d
 ├── README.md
 ├── Project_Report_Group_TEL2GROUP1.docx		# REPORT
 ├── Project_Presentation_Group_TEL2GROUP1.pptx		# PRESENTATION SLIDES
-├── sc5010 project assignment.pdf
-└── clustering/
-    ├── clustering.ipynb
-    ├── diabetes.csv
-    └── preprocessed_diabetes.csv
+└── sc5010 project assignment.pdf
 ```
 
 ## Step 1. Clone GitHub repository 
