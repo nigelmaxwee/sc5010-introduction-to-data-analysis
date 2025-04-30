@@ -60,3 +60,8 @@ python -m venv venv
 ```
 pip install -r requirements.txt
 ```
+
+## Runtime
+
+- **Total execution time**: ~5 minutes  
+  (on a standard desktop with Ryzen 5, 32GB RAM)
