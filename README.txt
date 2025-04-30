@@ -28,8 +28,10 @@ Please ensure that the dataset used is in the correct folder(s) as seen in the d
 ├── requirements.txt
 ├── README.txt
 ├── README.md
-├── Project_Report_Group_TEL2GROUP1.docx		# REPORT
+├── Project_Report_Group_TEL2GROUP1.docx		# REPORT (docx)
+├── Project_Report_Group_TEL2GROUP1.pdf			# REPORT (pdf)
 ├── Project_Presentation_Group_TEL2GROUP1.pptx		# PRESENTATION SLIDES
+├── Project_Video_Group_TEL2GROUP1.mp4			# PRESENTATION VIDEO
 └── sc5010 project assignment.pdf
 ```
 
@@ -40,7 +42,7 @@ cd sc5010-introduction-to-data-analysis
 ```
 
 ## Step 2. Ensure Python is version 3.12
-This is mainly for compatibility with packages
+This is mainly for compatibility with packages 
 Download link: https://www.python.org/downloads/release/python-3124/
 ```
 python --version
