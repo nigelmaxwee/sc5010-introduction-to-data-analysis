@@ -28,10 +28,11 @@ Please ensure that the dataset used is in the correct folder(s) as seen in the d
 ├── data/
 │   └── diabetes.csv
 ├── requirements.txt
-├── README.txt
 ├── README.md
 ├── Project_Report_Group_TEL2GROUP1.docx
-├── Project_Presentation_Group_TEL2GROUP1.pptx	
+├── Project_Report_Group_TEL2GROUP1.pdf	
+├── Project_Presentation_Group_TEL2GROUP1.pptx
+├── Project_Video_Group_TEL2GROUP1.mp4		
 └── sc5010 project assignment.pdf
 ```
 
