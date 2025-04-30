@@ -3,10 +3,10 @@
 ## TEL2 Group 1
 | Name           | Matric Number |
 |----------------|---------------|
-| Brad Lee     | U2130355E      |
-| Cheng Jun Long Brandon      | U2222813C      |
-| Nicolas Chan Han Hui       | U2230785E      |
-| Nigel Max Wee Yaohan      | U2221718B     |
+| Brad Lee                 | U2130355E      |
+| Cheng Jun Long Brandon   | U2222813C      |
+| Nicolas Chan Han Hui     | U2230785E      |
+| Nigel Max Wee Yaohan     | U2221718B      |
 
 
 ## Objective
