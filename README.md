@@ -1,6 +1,6 @@
 # sc5010-introduction-to-data-analysis
 # Pima Indians Diabetes Classification & Clustering
-
+## TEL2 Group 1
 | Name           | Matric Number |
 |----------------|---------------|
 | Brad Lee     | U2130355E      |
