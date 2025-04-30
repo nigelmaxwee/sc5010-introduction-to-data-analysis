@@ -30,6 +30,7 @@ Please ensure that the dataset used is in the correct folder(s) as seen in the d
 ├── README.md
 ├── Project_Report_Group_TEL2GROUP1.docx		# REPORT
 ├── Project_Presentation_Group_TEL2GROUP1.pptx		# PRESENTATION SLIDES
+├── Project_Video_Group_TEL2GROUP1.mp4			# PRESENTATION VIDEO
 └── sc5010 project assignment.pdf
 ```
 
