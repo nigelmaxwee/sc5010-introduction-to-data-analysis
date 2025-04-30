@@ -1,5 +1,5 @@
 # sc5010-introduction-to-data-analysis
-# Diabetes classification & clustering
+# Pima Indians Diabetes Classification & Clustering
 
 | Name           | Matric Number |
 |----------------|---------------|
@@ -29,6 +29,8 @@ Please ensure that the dataset used is in the appropriate folder as seen in the 
 │   └── diabetes.csv
 ├── requirements.txt
 ├── README.md
+├── Project_Report_Group_TEL2GROUP1.docx
+├── Project_Presentation_Group_TEL2GROUP1.pptx
 ├── sc5010 project assignment.pdf
 └── clustering/
     ├── clustering.ipynb
