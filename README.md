@@ -16,7 +16,7 @@ To develop and fine-tune machine learning models for predicting the likelihood o
 
 ## Dataset
 </p>
-Link: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
+Link: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database <br>
 Please ensure that the dataset used is in the appropriate folder as seen in the directory tree
 </p>
 
