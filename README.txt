@@ -44,7 +44,7 @@ cd sc5010-introduction-to-data-analysis
 ```
 
 ## Step 2. Ensure Python is version 3.12
-This is mainly for compatibility with packages <br>
+This is mainly for compatibility with packages
 Download link: https://www.python.org/downloads/release/python-3124/
 ```
 python --version
